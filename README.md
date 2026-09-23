@@ -30,7 +30,7 @@ The dashboard includes:
 * Regional analysis
 * Interactive slicers
 * Product and category analysis
-![Sales Dashboard](SALES%20DASHBOARD.png)
+![Sales Dashboard](Sales%20dashboard.png)
 ## 📂 Project Files
 
 The repository contains the dataset, Power BI dashboard file, and dashboard screenshots.
