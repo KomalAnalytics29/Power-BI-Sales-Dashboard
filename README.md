@@ -31,6 +31,33 @@ The dashboard includes:
 * Interactive slicers
 * Product and category analysis
 ![Sales Dashboard](Sales%20dashboard.png)
+# 📊 Sales Pipeline & Revenue Drivers Dashboard (Power BI)
+
+## 📌 Executive Summary
+An interactive, executive-ready Power BI dashboard designed to analyze pipeline stage conversions, regional revenue distribution, root-cause metric breakdowns, and AI-driven deal success drivers.
+
+![Dashboard Preview](dashboard_preview.png)
+
+---
+
+## 💡 Key Business Questions Answered
+* **Pipeline Conversion:** Where are deals dropping off across the 5 sales stages?
+* **Regional Performance:** Which regions and product categories drive the highest revenue share?
+* **Root-Cause Analysis:** What specific dimension combinations account for major deal size variances?
+* **Success Influencers:** What factors increase the likelihood of closing a deal (Win Status)?
+
+---
+
+## 🛠️ Visuals & Features Used
+* **Top KPI Cards:** Instant visibility into Total Pipeline Value, Win Rate %, Average Deal Size, and Total Opportunities.
+* **Funnel Chart:** Stage-by-stage progression tracking.
+* **Treemap Visual:** Two-level hierarchy breakdown by Region and Product Category.
+* **Decomposition Tree:** Interactive root-cause drill-downs across ad-hoc attributes.
+* **Key Influencers (AI Visual):** Machine Learning-driven factor identification for closed-won deals.
+
+---
+![Sales Pipeline Dashboard](dashboard_preview.png)
+## 📂 Repository Structure
 ## 📂 Project Files
 
 The repository contains the dataset, Power BI dashboard file, and dashboard screenshots.
