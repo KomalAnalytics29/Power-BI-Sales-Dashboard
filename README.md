@@ -36,7 +36,7 @@ The dashboard includes:
 ## 📌 Executive Summary
 An interactive, executive-ready Power BI dashboard designed to analyze pipeline stage conversions, regional revenue distribution, root-cause metric breakdowns, and AI-driven deal success drivers.
 
-![Dashboard Preview](dashboard_preview.png)
+![Sales Pipeline Dashboard](./dashboard_preview.png)
 
 ---
 
